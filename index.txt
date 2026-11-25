@@ -1,2 +1,6 @@
 index file created
+<<<<<<< HEAD
 second line added 
+=======
+second line added in ui branch
+>>>>>>> ui
